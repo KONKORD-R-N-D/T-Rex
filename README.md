@@ -1,6 +1,6 @@
 # T-REX
 
-![developed](https://img.shields.io/badge/developed%20by-Alekperov17-%?style=flat-square) 
+![developed](https://img.shields.io/badge/developed%20by-Alekperov17-green?style=flat-square) 
 ![version of page](https://img.shields.io/badge/version-0.0.2b-blue?style=flat-square) 
 ![start date](https://img.shields.io/badge/start_date-01.11.22-red?style=flat-square)
 ![last change](https://img.shields.io/badge/last_change-25.12.22-orange?style=flat-square)
